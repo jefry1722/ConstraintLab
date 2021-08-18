@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLab</string>
+    <string name="to_label">Para:</string>
+    <string name="email_hint">Ingrese su email</string>
+    <string name="subject_hint">Solicitud de transporte</string>
+    <string name="message_hint">Ingrese los datos de la solicitud</string>
+    <string name="send_button">Enviar</string>
+</resources>
